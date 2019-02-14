@@ -1,6 +1,7 @@
 import { STUDENT_DETAILS } from './student-data';
-import { Student } from './Student';
+
 import { Injectable } from '@angular/core';
+import { Student } from './student';
 
 
 @Injectable()
